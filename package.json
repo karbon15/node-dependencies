@@ -1,0 +1,12 @@
+{
+  "name": "dependencies-done-right",
+  "description": "An attempt for dependencies management without bells and whistles",
+  "author": "Pier-Luc Théberge <pier-luc@theberge.name>",
+  "dependencies": {
+    "winston": "0.7.x",
+    "commander": "2.3.0"
+  },
+  "devDependencies": {
+  },
+  "main": "server.js"
+}
