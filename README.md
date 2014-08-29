@@ -3,7 +3,7 @@ Because making a point is fun.
 
 
 ## Usage
-npm install
+npm install;
 nodejs server.js -p -P -b -e UAT
 
 
